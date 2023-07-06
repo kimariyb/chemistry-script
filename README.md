@@ -1,2 +1,1 @@
-# chemistry-script
-由 Kimariyb 编写或收集到的计算化学实用脚本
+- `gimic/xyz2cml.sh`: gimic 程序生产从 xyz 文件转化为 cml 文件格式的脚本
