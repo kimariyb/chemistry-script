@@ -1,1 +1,2 @@
-- `gimic/xyz2cml.sh`: gimic 程序生产从 xyz 文件转化为 cml 文件格式的脚本
+- `gimic/xyz2cml.sh:` gimic 程序生产从 xyz 文件转化为 cml 文件格式的脚本
+- `gaussian/runall.sh:` 运行当前目录下所有的 gjf 文件，并输出 gjf 文件同名的 out 文件
